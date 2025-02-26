@@ -1,0 +1,5 @@
+0 Iceberg
+1 Volcano
+2 Plastic
+3 Hurricane
+4 Nuclear
